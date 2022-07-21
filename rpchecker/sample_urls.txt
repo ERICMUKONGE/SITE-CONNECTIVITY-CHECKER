@@ -1,0 +1,4 @@
+https://www.python.org/
+https://pypi.org/
+https://docs.python.org/3/
+https://peps.python.org/
